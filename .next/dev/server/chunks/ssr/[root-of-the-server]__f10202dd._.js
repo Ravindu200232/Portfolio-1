@@ -272,7 +272,7 @@ function Footer() {
                                 children: [
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                                         className: "text-xs uppercase tracking-[0.24em] text-white/42",
-                                        children: "Software Engineer"
+                                        children: "Built With Intention"
                                     }, void 0, false, {
                                         fileName: "[project]/src/components/Footer.tsx",
                                         lineNumber: 28,
@@ -288,7 +288,7 @@ function Footer() {
                                     }, this),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
                                         className: "mt-3 max-w-xl leading-8 text-white/66",
-                                        children: "Software Engineering undergraduate building toward stronger full-stack engineering practice through project work, reflection, and continuous learning."
+                                        children: "A software engineering portfolio shaped around practical work, better presentation, and steady progress toward professional readiness."
                                     }, void 0, false, {
                                         fileName: "[project]/src/components/Footer.tsx",
                                         lineNumber: 32,
@@ -306,7 +306,7 @@ function Footer() {
                                         href: href,
                                         target: href.startsWith("http") ? "_blank" : undefined,
                                         rel: href.startsWith("http") ? "noreferrer" : undefined,
-                                        className: "inline-flex h-12 w-12 items-center justify-center rounded-full border border-white/10 bg-white/[0.03] text-white/62 hover:border-[rgba(214,176,124,0.24)] hover:text-[#f0d4a8]",
+                                        className: "inline-flex h-12 w-12 items-center justify-center rounded-full border border-white/10 bg-white/[0.03] text-white/62 hover:border-[rgba(242,107,76,0.24)] hover:text-[#ff9a76]",
                                         "aria-label": label,
                                         children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(Icon, {
                                             className: "h-5 w-5"
@@ -342,7 +342,7 @@ function Footer() {
                         className: "mt-6 flex flex-col gap-2 text-sm text-white/44 md:flex-row md:items-center md:justify-between",
                         children: [
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                children: "Academic portfolio curated for coursework, reflection, and future opportunities."
+                                children: "Portfolio for projects, reflection, and future software engineering opportunities."
                             }, void 0, false, {
                                 fileName: "[project]/src/components/Footer.tsx",
                                 lineNumber: 58,
